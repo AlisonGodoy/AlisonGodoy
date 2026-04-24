@@ -27,7 +27,7 @@ I currently work with **ADVPL/TLPP** (TOTVS proprietary languages) and with **An
 - Communication with devices/equipment
 - End-to-end custom routines
 
-I have also worked professionally with **PHP + Laravel** and keep using these technologies in personal projects.
+I have also worked professionally with **PHP + Laravel** and I continue to use these technologies in personal projects.
 
 **Databases:** PostgreSQL • SQL Server  
 **Contact:** WhatsApp +55 51 99504-7199
